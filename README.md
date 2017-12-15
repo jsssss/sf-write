@@ -1,2 +1,2 @@
-# send-to-Ghost-SF
-send-to-Ghost/SF
+# Send gitbook to SF
+
