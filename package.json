@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vue.git"
+    "url": "git+https://github.com/c-yyy/sf-write.git"
   },
   "keywords": [
-    "gitbook",
-    "segmentfault"
+    "gitbook"
   ],
   "author": "cy",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c-yyy/sf-write/issues"
+  },
+  "homepage": "https://github.com/c-yyy/sf-write#readme"
 }
